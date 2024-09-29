@@ -1,0 +1,111 @@
+fecha,pelicula,genero,precio,cantidad,metodo_pago
+2023-10-24,Elementos,Comedia,8.45,3,Tarjeta
+2023-03-20,Barbie,Ciencia Ficción,11.12,1,Criptomoneda
+2023-05-04,Avatar 2,Animación,6.25,2,Tarjeta
+2023-01-29,Barbie,Drama,13.6,1,Criptomoneda
+2023-09-18,Barbie,Animación,12.99,2,Tarjeta
+2023-12-06,Elementos,Drama,error,3,Efectivo
+2023-03-18,Barbie,Ciencia Ficción,19.41,4,Efectivo
+2023-02-08,La Sirenita,Animación,16.74,3,Efectivo
+2023-02-22,Oppenheimer,Animación,16.75,error,Efectivo
+2023-06-12,Avatar 2,Drama,13.66,1,Tarjeta
+2023-07-13,Barbie,Drama,14.94,1,Efectivo
+2023-06-18,La Sirenita,Acción,12.57,4,Tarjeta
+2023-10-29,Avatar 2,Acción,18.55,3,Transferencia
+2023-06-22,Misión Imposible,Comedia,13.18,2,Tarjeta
+2023-09-15,La Sirenita,Animación,16.25,2,Criptomoneda
+2023-07-24,Barbie,Animación,13.76,2,Transferencia
+2023-01-31,Misión Imposible,Ciencia Ficción,19.06,4,Efectivo
+2023-07-10,Elementos,Drama,6.06,2,Efectivo
+2023-09-11,Avatar 2,Animación,14.93,2,Criptomoneda
+2023-01-22,Oppenheimer,Animación,13.65,4,Criptomoneda
+2023-06-12,Avatar 2,Drama,14.0,4,Efectivo
+2023-02-13,Barbie,Ciencia Ficción,13.7,2,Efectivo
+2023-10-15,Avatar 2,Drama,8.99,1,Criptomoneda
+2023-02-17,Misión Imposible,Ciencia Ficción,9.11,1,Tarjeta
+2023-02-21,Elementos,Drama,14.83,4,Criptomoneda
+2023-08-02,Misión Imposible,Acción,18.57,2,Transferencia
+2023-10-31,Barbie,Animación,10.88,2,Efectivo
+2023-10-03,Oppenheimer,Drama,14.11,4,Efectivo
+2023-07-01,Oppenheimer,Acción,5.11,4,Criptomoneda
+2023-03-12,La Sirenita,Acción,11.18,4,Transferencia
+2023-03-21,Elementos,Acción,19.62,4,Transferencia
+2023-02-27,Oppenheimer,Animación,15.53,2,Tarjeta
+2023-05-22,Avatar 2,Ciencia Ficción,13.69,1,Criptomoneda
+2023-09-08,La Sirenita,Comedia,8.13,1,Transferencia
+2023-12-19,La Sirenita,Acción,18.5,2,Transferencia
+2023-09-13,Oppenheimer,Ciencia Ficción,9.1,4,Tarjeta
+2023-06-07,Elementos,Ciencia Ficción,8.61,2,Criptomoneda
+2023-10-01,Elementos,Acción,7.69,4,Efectivo
+2023-08-20,Avatar 2,Comedia,9.17,2,Transferencia
+2023-05-07,Avatar 2,Acción,6.29,1,Efectivo
+2023-10-02,Barbie,Ciencia Ficción,5.93,3,Tarjeta
+2023-12-22,Avatar 2,Comedia,8.89,1,Criptomoneda
+2023-02-06,Barbie,Acción,13.84,1,Tarjeta
+2023-10-15,La Sirenita,Comedia,7.31,3,Criptomoneda
+2023-12-20,La Sirenita,Animación,12.31,1,Transferencia
+2023-08-22,Elementos,Animación,11.81,4,Criptomoneda
+2023-04-11,Avatar 2,Drama,6.91,1,Tarjeta
+2023-11-21,Barbie,Drama,15.31,1,Efectivo
+2023-01-14,Barbie,Drama,18.43,4,Efectivo
+2023-05-29,La Sirenita,Acción,14.62,2,Efectivo
+2023-08-14,Misión Imposible,Acción,5.99,1,Transferencia
+2023-01-11,Oppenheimer,Ciencia Ficción,15.75,1,Efectivo
+2023-09-27,Oppenheimer,Acción,7.69,4,Efectivo
+2023-10-23,Barbie,Acción,12.42,3,Transferencia
+2023-02-24,Avatar 2,Ciencia Ficción,6.75,4,Transferencia
+2023-02-25,Oppenheimer,Comedia,8.66,2,Tarjeta
+2023-04-09,Misión Imposible,Drama,19.96,1,Criptomoneda
+2023-02-28,Barbie,Comedia,15.85,3,Transferencia
+2023-06-19,Misión Imposible,Comedia,5.51,3,Tarjeta
+2023-12-09,Oppenheimer,Comedia,14.14,2,Tarjeta
+2023-03-26,La Sirenita,Drama,14.98,1,Tarjeta
+2023-11-24,Avatar 2,Acción,18.09,1,Efectivo
+2023-04-26,Oppenheimer,Acción,16.38,3,Transferencia
+2023-11-13,Avatar 2,Ciencia Ficción,19.65,2,Tarjeta
+2023-12-15,La Sirenita,Drama,9.39,3,Efectivo
+2023-01-08,Barbie,Comedia,12.2,1,Transferencia
+2023-09-27,La Sirenita,Ciencia Ficción,13.79,1,Tarjeta
+2023-10-04,Misión Imposible,Acción,8.17,3,Transferencia
+2023-05-31,Barbie,Ciencia Ficción,16.25,3,Criptomoneda
+2023-02-16,Avatar 2,Ciencia Ficción,15.3,1,Efectivo
+2023-07-06,Elementos,Acción,17.47,4,Criptomoneda
+2023-06-28,La Sirenita,Ciencia Ficción,17.86,2,Criptomoneda
+2023-09-22,Misión Imposible,Ciencia Ficción,8.32,2,Tarjeta
+2023-07-26,Barbie,Acción,10.85,2,Tarjeta
+2023-03-25,Elementos,Animación,11.59,1,Efectivo
+2023-08-15,Oppenheimer,Animación,15.76,2,Tarjeta
+2023-10-25,Oppenheimer,Animación,9.55,2,Transferencia
+2023-10-17,Misión Imposible,Ciencia Ficción,12.13,3,Transferencia
+2023-02-02,Misión Imposible,Acción,13.31,3,Criptomoneda
+2023-03-04,Elementos,Acción,6.67,2,Criptomoneda
+2023-01-04,Misión Imposible,Drama,6.38,1,Criptomoneda
+2023-11-21,Barbie,Comedia,7.05,2,Criptomoneda
+2023-04-12,Misión Imposible,Comedia,7.06,4,Tarjeta
+2023-01-30,Elementos,Comedia,12.22,2,Tarjeta
+2023-11-23,Oppenheimer,Ciencia Ficción,9.9,1,Transferencia
+2023-02-20,Avatar 2,Ciencia Ficción,18.67,4,Tarjeta
+2023-04-23,Misión Imposible,Comedia,13.59,2,Tarjeta
+2023-03-03,La Sirenita,Comedia,10.69,1,Criptomoneda
+2023-02-24,Misión Imposible,Ciencia Ficción,18.74,1,Tarjeta
+2023-06-25,Avatar 2,Drama,15.12,1,Criptomoneda
+2023-10-25,La Sirenita,Drama,6.17,4,Criptomoneda
+2023-11-20,La Sirenita,Comedia,8.05,4,Efectivo
+2023-08-26,Barbie,Comedia,11.58,3,Criptomoneda
+2023-05-15,Oppenheimer,Animación,9.29,4,Transferencia
+2023-12-09,Elementos,Ciencia Ficción,6.1,2,Efectivo
+2023-04-22,Barbie,Animación,,,Transferencia
+2023-03-26,Elementos,Animación,,,Criptomoneda
+2023-05-01,La Sirenita,Ciencia Ficción,,,Criptomoneda
+2023-05-20,Barbie,Ciencia Ficción,,,Tarjeta
+2023-11-12,Misión Imposible,Ciencia Ficción,,,Criptomoneda
+2023-01-30,Elementos,Comedia,12.22,2,Tarjeta
+2023-10-23,Barbie,Acción,12.42,3,Transferencia
+2023-07-06,Elementos,Acción,17.47,4,Criptomoneda
+2023-08-22,Elementos,Animación,11.81,4,Criptomoneda
+2023-12-20,La Sirenita,Animación,12.31,1,Transferencia
+2023-05-07,Avatar 2,Acción,6.29,1,Efectivo
+2023-10-15,Avatar 2,Drama,8.99,1,Criptomoneda
+2023-01-04,Misión Imposible,Drama,6.38,1,Criptomoneda
+2023-07-13,Barbie,Drama,14.94,1,Efectivo
+2023-10-24,Elementos,Comedia,8.45,3,Tarjeta
